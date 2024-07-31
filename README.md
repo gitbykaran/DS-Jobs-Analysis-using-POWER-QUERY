@@ -1,5 +1,5 @@
 # ETL and EDA on Data Science Jobs Dataset
-
+![Screenshot (107)](https://github.com/user-attachments/assets/024816d4-8ba0-4a60-a546-3603c943065f)
 ## Overview
 
 This repository contains a Power Query script and associated resources for performing ETL (Extract, Transform, Load) and EDA (Exploratory Data Analysis) on a dataset of data science job postings. The dataset is provided in CSV format and includes various attributes related to job postings, such as job titles, companies, locations, and required skills.
