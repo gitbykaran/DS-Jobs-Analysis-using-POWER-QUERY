@@ -18,6 +18,7 @@ The primary objectives of this project are to:
 - `Clean Sheet with insights.xlsx`: An Excel file with the results of exploratory data analysis, including charts and summary statistics.
 
 ## EDA Focus Areas
+![Screenshot (106)](https://github.com/user-attachments/assets/c39adf8d-b3c3-4aca-8f4f-225ab4c6a699)
 
 The EDA process covered the following aspects:
 
